@@ -1,0 +1,15 @@
+{
+  "name": "Ionic",
+  "short_name": "Ionic",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "assets/img/original.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#e3e0cf",
+  "theme_color": "#e3e0cf"
+}
